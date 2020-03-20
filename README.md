@@ -6,3 +6,5 @@ this set of images spread of 10 class labels assigned to them.
 Each classlabel is a disease pair, and we make a Neoral network to predict the disease pair given just the image of the plantleaf.  
 the size of the images is 256*256 pixels and we resize them to 120*120 
 
+tow class classification Healthy & unHealthy
+10 class healthy and 9 desease
