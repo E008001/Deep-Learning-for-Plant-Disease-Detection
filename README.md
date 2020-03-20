@@ -4,5 +4,5 @@ This Model analyze 11118 images of Tomato leaves,
 15607 for train and validate the model and 911 image for testing the output of the model
 this set of images spread of 10 class labels assigned to them.  
 Each classlabel is a disease pair, and we make a Neoral network to predict the disease pair given just the image of the plantleaf.  
-the size of the images is 256*256 pixels and we resize them to 120*120 10207-911
+the size of the images is 256*256 pixels and we resize them to 120**120 10207-911
 
