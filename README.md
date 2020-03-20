@@ -7,4 +7,5 @@ Each classlabel is a disease pair, and we make a Neoral network to predict the d
 the size of the images is 256*256 pixels and we resize them to 120*120 
 
 * [tow class classification Healthy & unHealthy](https://github.com/E008001/Deep-Learning-for-Plant-Disease-Detection/blob/master/image_6diseas100.ipynb)  
-* [6 class healthy and 5 desease](https://github.com/E008001/Deep-Learning-for-Plant-Disease-Detection/blob/master/image_6diseas.ipynb)
+* [6 class healthy and 5 desease](https://github.com/E008001/Deep-Learning-for-Plant-Disease-Detection/blob/master/image_6diseas.ipynb)  
+* [10 Class Diseases image classification using Convolusion and MaxPooling layers in CNN](https://github.com/E008001/Deep-Learning-for-Plant-Disease-Detection/blob/master/10class_disease2.ipynb)
